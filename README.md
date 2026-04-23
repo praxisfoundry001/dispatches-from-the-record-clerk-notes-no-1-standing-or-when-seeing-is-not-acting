@@ -41,6 +41,6 @@ Natural companion artifacts in this lane include:
 - *Constitutional Physiology: Measuring Legitimacy as Care in a Living Civic Body*
 
 ## Citation / DOI
-Zenodo DOI: pending
+Zenodo DOI: https://doi.org/10.5281/zenodo.19708718
 
 Full printable PDF available via DOI link after publication.
